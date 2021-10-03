@@ -1,4 +1,3 @@
-GECW Rohin Trgdnz, [03.10.21 13:32]
 def mohcircle():
     import numpy as np
     import matplotlib.pyplot as plt
@@ -57,8 +56,8 @@ def mohcircle():
     plt.show()
 
 mohcircle()
-v = input('Exit? y/n ')
+v = input('Exit? Y/n ')
 while v == "n":
     mohcircle()
-    v = input('Exit? y/n ')
+    v = input('Exit? Y/n ')
 exit()
